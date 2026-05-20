@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Garv%20Jain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Backend%20Engineer&descAlignY=58&descSize=22&descColor=a0a0ff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=280&amp;section=header&amp;text=Garv%20Jain&amp;fontSize=80&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Science%20%26%20Backend%20Engineer&amp;descAlignY=58&amp;descSize=22&amp;descColor=a0a0ff" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,18 +11,14 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista+%F0%9F%9A%80;GATE+2026+%E2%9C%85+%7C+RHCSA+Certified+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista+%F0%9F%9A%80;GATE+2026+%E2%9C%85+%7C+RHCSA+Certified+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG"/>
 </div>
 
 <br/>
-<br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line"/>
-</div>
+---
 
 ## 🐍 About Me
 
@@ -113,7 +109,7 @@ garv = {
         </div>
         <br/>
         <p align="center">
-          Code sharing & collaboration platform. Shareable snippets with custom URLs, password protection, expiry, inline images, and a multi-tenant org system. Powered by <strong>FastAPI · PostgreSQL · Redis · MongoDB · CodeMirror 6</strong>.
+          Code sharing &amp; collaboration platform. Shareable snippets with custom URLs, password protection, expiry, inline images, and a multi-tenant org system. Powered by <strong>FastAPI · PostgreSQL · Redis · MongoDB · CodeMirror 6</strong>.
         </p>
       </td>
       <td width="50%">
@@ -174,8 +170,8 @@ garv = {
 | 🎯 GATE 2026 | Qualified — Computer Science |
 | 🔴 RHCSA | Red Hat Certified System Administrator (Globally Valid, 2025) |
 | 📄 Research Publication | Investigation on Waste Management and Its Recycling — IJPPC 2025 |
-| 📚 NPTEL | 7+ Certifications — ML, Data Science, Competitive Programming & more |
-| 🌐 IGNOU | Cyber Security Tools, Techniques & Counter Measures |
+| 📚 NPTEL | 7+ Certifications — ML, Data Science, Competitive Programming &amp; more |
+| 🌐 IGNOU | Cyber Security Tools, Techniques &amp; Counter Measures |
 
 </div>
 
@@ -213,5 +209,5 @@ garv = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" alt="Footer" width="100%"/>
 </div>
