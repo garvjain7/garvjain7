@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Garv%20Jain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Backend%20Engineer&descAlignY=58&descSize=22&descColor=a0a0ff)
+<div align="center">
+  <img src="https://readme-header.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Garv%20Jain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Backend%20Engineer&descAlignY=58&descSize=22&descColor=a0a0ff" alt="Header"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=garvjain7&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -8,12 +10,27 @@
   <img src="https://img.shields.io/github/stars/garvjain7?label=STARS&style=for-the-badge&color=e94560" alt="GitHub Stars"/>
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista+%F0%9F%9A%80;GATE+2026+%E2%9C%85+%7C+RHCSA+Certified+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista+%F0%9F%9A%80;GATE+2026+%E2%9C%85+%7C+RHCSA+Certified+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG"/>
 </div>
 
----
+<br/>
+<br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line"/>
+</div>
+
+## 🐍 About Me
+
+```python
+garv = {
+    "name":       "Garv Jain",
+    "location":   "Jaipur, Rajasthan 🇮🇳",
+    "role":       "Data Science & Backend Engineer",
     "education":  "B.Tech CS @ Poornima Institute of Engineering & Technology",
 
     "currently_building": ["CodeAlive", "ScanVista"],
