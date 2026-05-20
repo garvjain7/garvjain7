@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Garv%20Jain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Garv%20Jain&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer;Problem+Solver;System+Designer" alt="Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista;GATE+2026+Qualified+%7C+RHCSA+Certified"/>
 </div>
 
 <br/>
@@ -113,7 +113,7 @@ garv = {
         </div>
         <br/>
         <p align="center">
-          Code sharing & collaboration platform. Shareable snippets with custom URLs, password protection, expiry, inline images, and a multi-tenant org system. Powered by <strong>FastAPI · PostgreSQL</strong>
+          Code sharing & collaboration platform. Shareable snippets with custom URLs, password protection, expiry, inline images, and a multi-tenant org system. Powered by <strong>FastAPI · PostgreSQL · React</strong>.
         </p>
       </td>
       <td width="50%">
@@ -123,7 +123,7 @@ garv = {
         </div>
         <br/>
         <p align="center">
-          AI-powered QR to 3D product visualization platform. QR-based AR experiences, AI voice interaction, and recommendation workflows. Built with <strong>React · Three.js · Node.js · FastAPI</strong>
+          AI-powered QR to 3D product visualization platform. QR-based AR experiences, AI voice interaction, and recommendation workflows. Built with <strong>React · Three.js · Node.js · FastAPI</strong>.
         </p>
       </td>
     </tr>
