@@ -4,15 +4,21 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=garvjain7&style=for-the-badge&color=6c63ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
   <img src="https://img.shields.io/github/followers/garvjain7?label=FOLLOWERS&style=for-the-badge&color=0f3460" alt="GitHub Followers"/>
+  &nbsp;
   <img src="https://img.shields.io/github/stars/garvjain7?label=STARS&style=for-the-badge&color=e94560" alt="GitHub Stars"/>
 </div>
 
+<br/>
 <br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista+%F0%9F%9A%80;GATE+2026+%E2%9C%85+%7C+RHCSA+Certified+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG"/>
 </div>
+
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line"/>
@@ -70,16 +76,16 @@ garv = {
 
 ### 🎨 Frontend & Editor
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/CodeMirror_6-1C1C1C?style=for-the-badge&logo=codemirror&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/WebXR-FF6B35?style=for-the-badge&logo=webxr&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebXR-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeMirror_6-1C1C1C?style=for-the-badge&logoColor=white"/>
 
 ### 🛠️ Tools & Infra
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -107,7 +113,7 @@ garv = {
         </div>
         <br/>
         <p align="center">
-          Code sharing & real-time collaboration platform. Shareable snippets with custom URLs, password protection, expiry, inline images, and a full multi-tenant org system. Powered by <strong>FastAPI · PostgreSQL · Redis · MongoDB · CodeMirror 6</strong>.
+          Code sharing & collaboration platform. Shareable snippets with custom URLs, password protection, expiry, inline images, and a multi-tenant org system. Powered by <strong>FastAPI · PostgreSQL · Redis · MongoDB · CodeMirror 6</strong>.
         </p>
       </td>
       <td width="50%">
@@ -132,16 +138,23 @@ garv = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=garvjain7&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvjain7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=garvjain7&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=garvjain7&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+<br/>
 
 ### 🏆 GitHub Trophies
 <div align="center">
@@ -161,7 +174,7 @@ garv = {
 | 🎯 GATE 2026 | Qualified — Computer Science |
 | 🔴 RHCSA | Red Hat Certified System Administrator (Globally Valid, 2025) |
 | 📄 Research Publication | Investigation on Waste Management and Its Recycling — IJPPC 2025 |
-| 📚 NPTEL | 7+ Certifications — ML, Data Science, Competitive Programming, and more |
+| 📚 NPTEL | 7+ Certifications — ML, Data Science, Competitive Programming & more |
 | 🌐 IGNOU | Cyber Security Tools, Techniques & Counter Measures |
 
 </div>
@@ -176,14 +189,17 @@ garv = {
   <a href="https://linkedin.com/in/garvjain7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/garvjain7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:garvjain0035@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://codealive.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/CodeAlive-6C63FF?style=for-the-badge&logo=render&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeAlive-6C63FF?style=for-the-badge&logoColor=white"/>
   </a>
 </div>
 
@@ -193,6 +209,8 @@ garv = {
   <p>⭐ If you find my work interesting, consider starring my repositories!</p>
   <p>💬 Always open to interesting conversations and collaboration.</p>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer"/>
