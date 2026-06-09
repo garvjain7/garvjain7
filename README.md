@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=130&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista;GATE+2026+Qualified+%7C+RHCSA+Certified;Databricks+Certified+Data+Engineer+Associate"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=130&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Databricks+Certified+Data+Engineer+Associate;GATE+2026+Qualified+%7C+RHCSA+Certified;Building+CodeAlive+%26+ScanVista"/>
 </div>
 
 <br/>
