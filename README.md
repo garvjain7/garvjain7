@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista;GATE+2026+Qualified+%7C+RHCSA+Certified"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=700&height=130&lines=Backend+Engineer+%7C+System+Design+%7C+Python;Building+CodeAlive+%26+ScanVista;GATE+2026+Qualified+%7C+RHCSA+Certified;Databricks+Certified+Data+Engineer+Associate"/>
 </div>
 
 <br/>
@@ -30,7 +30,7 @@
 garv = {
     "name":       "Garv Jain",
     "location":   "Jaipur, Rajasthan 🇮🇳",
-    "role":       "Data Science & Backend Engineer",
+    "role":       "Data Science, Data Engineer & Backend Engineer",
     "education":  "B.Tech CS @ Poornima Institute of Engineering & Technology",
 
     "currently_building": ["CodeAlive", "ScanVista"],
@@ -38,6 +38,7 @@ garv = {
     "open_to":            ["Collaborations", "Open Source", "Backend Projects"],
 
     "achievements": [
+        "Databricks Certified Data Engineer Associate",
         "GATE 2026 Qualified (Computer Science)",
         "RHCSA Certified 2025 (Globally Valid)",
         "Research Publication — IJPPC 2025",
@@ -171,6 +172,7 @@ garv = {
 
 | 🏅 Achievement | 📋 Details |
 |---|---|
+| 🎓 Databricks Certified Data Engineer Associate | Industry-recognized Databricks Certification (Valid through 2028) |
 | 🎯 GATE 2026 | Qualified — Computer Science |
 | 🔴 RHCSA | Red Hat Certified System Administrator (Globally Valid, 2025) |
 | 📄 Research Publication | Investigation on Waste Management and Its Recycling — IJPPC 2025 |
